@@ -20,7 +20,7 @@ namespace Lista_de_Exercicios
             //Passo 3: Criando um Loop até o Numero Definido Pelo Usuario.
             for (int i = 0; i <= numero; i++)
             {
-                //Passo 4: Defininfo quais Numeros são Pares.
+                //Passo 4: Definindo quais Numeros são Pares.
                 if (i % 2 == 0)
                 {
                     Console.WriteLine(i);
