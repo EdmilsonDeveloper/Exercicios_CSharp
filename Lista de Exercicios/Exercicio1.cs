@@ -8,7 +8,7 @@ namespace Lista_de_Exercicios
 {
     internal class Exercicio1
     {
-        static void Main(string[] args)
+        static void main(string[] args)
         {
             //Passo 1: Receber a Idade do Usuario.
             Console.WriteLine("Digite sua Idade:");
@@ -20,7 +20,8 @@ namespace Lista_de_Exercicios
                 Console.WriteLine("Você é Maior de Idade");
 
             }
-            //Passo 3: Definir que Abaixo de 18 é Menor de Idade.
+
+            //Passo 3: Caso Seja Menor que 18 Anos = Menor de idade.
             else
             {
                 Console.WriteLine("Você é Menor de Idade");
