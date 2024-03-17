@@ -8,7 +8,7 @@ namespace Lista_de_Exercicios
 {
     internal class Exercicio1
     {
-        static void main(string[] args)
+        public static void main(string[] args)
         {
             //Passo 1: Receber a Idade do Usuario.
             Console.WriteLine("Digite sua Idade:");
